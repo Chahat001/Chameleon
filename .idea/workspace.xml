@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e977ca6-c8a2-4281-aba9-97db46ef99c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FrontEnd.Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wait-for-it.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Screen Shot 2021-11-28 at 10.56.44 PM.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd.Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/uploadingfiles/FileUploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/uploadingfiles/FileUploadController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/uploading-files-0.0.1-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/uploading-files-0.0.1-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/uploading-files-0.0.1-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/uploading-files-0.0.1-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/uploading-files-boot-0.0.1-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/uploading-files-boot-0.0.1-SNAPSHOT.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/uploading-files-boot-0.0.1-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/uploading-files-boot-0.0.1-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/uploading-files-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/uploading-files-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/uploading-files-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/uploading-files-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/uploading-files" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/uploading-files" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/uploading-files.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/uploading-files.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/uploadingfiles/FileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/uploadingfiles/FileUploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +74,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/front-end/public" />
     </key>
@@ -168,7 +151,7 @@
       <updated>1633502969959</updated>
       <workItem from="1633502972324" duration="6128000" />
       <workItem from="1635737521104" duration="639000" />
-      <workItem from="1636877906746" duration="53334000" />
+      <workItem from="1636877906746" duration="57469000" />
     </task>
     <servers />
   </component>
