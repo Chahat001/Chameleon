@@ -17,7 +17,7 @@ import com.example.uploadingfiles.storage.StorageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
+@CrossOrigin
 @Controller
 public class FileUploadController {
 
@@ -33,14 +33,12 @@ public class FileUploadController {
 		this.fileRepository = fileRepository;
 	}
 
-	@CrossOrigin(origins = "http://localhost:3000")
 	@GetMapping("/loadfiles")
 	@ResponseBody
 	public Iterable<File> listUploadedFiles() throws IOException {
 		return fileRepository.find20Files();
 	}
 
-	@CrossOrigin(origins = "http://localhost:3000")
 	@GetMapping("/files/{fileName}")
 	@ResponseBody
 	public File getFile(@PathVariable String fileName) {
@@ -57,7 +55,6 @@ public class FileUploadController {
 	}
 
 
-	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping("/files")
 	@ResponseBody
 	public Message handleFileUpload(@RequestParam("file") MultipartFile file) {
